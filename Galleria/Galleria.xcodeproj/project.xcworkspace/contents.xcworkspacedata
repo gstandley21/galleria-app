@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/bethmieczkowski/Desktop/galleria-app/Galleria/Galleria/OpenSans-Regular.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/sacramento 2/Sacramento-Regular.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/sacramento (1)/Sacramento-Regular.ttf">
+   </FileRef>
+   <FileRef
+      location = "self:Galleria.xcodeproj">
+   </FileRef>
+</Workspace>
